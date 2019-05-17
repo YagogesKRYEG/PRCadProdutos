@@ -6,7 +6,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 import com.PRCadProdutos.dominio.Produtos;
-import com.prjcadcliente.dominio.Cliente;
 /**
  * <b> CRUDProdutos</b><br>
  * Essa classe permite manipular as informações do Produto. Aqui você encontrara os seguintes comandos
